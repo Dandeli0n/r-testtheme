@@ -2,9 +2,11 @@
   text-shadow: 0px 1px #f6f6f6;
 }
 body {
-  background-color: #fafafa;
+  /* background-color: #fafafa; */
   font-family: Helvetica, Arial, sans-serif;
   letter-spacing: 0;
+  
+  background: red;
 }
 .content {
   margin-left: 1em;
